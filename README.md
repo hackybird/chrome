@@ -1,5 +1,6 @@
 # Filter & Sort your twitter feed with HackyBird ! 
 
+[Get the extension](https://chrome.google.com/webstore/detail/hackybird/ddlhmpomfloaidpdleeoegmpikjdchjf)
 
 ## Features : 
 - Filter out tweets by keywords 
@@ -68,3 +69,4 @@
 **Q** : What is "Normalize" in options ? 
 **A** : If checked, the count of retweets & likes is divided by the age of the tweet (in seconds). Otherwise absolute count is used.
 
+[Get the extension](https://chrome.google.com/webstore/detail/hackybird/ddlhmpomfloaidpdleeoegmpikjdchjf)
