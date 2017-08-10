@@ -18,24 +18,30 @@
 
 
 ## Options : 
-###### Right click ![Hackybird](http://i.imgur.com/XXtSQm1.png) to select options
+*(right click ![Hackybird](http://i.imgur.com/XXtSQm1.png) to select options)*
 
 ## Filter by keywords
 - You can enter comma separated keywords. Any tweet containing these keywords would be hidden when you click the hackybird icon.
-![](http://i.imgur.com/Md6hnSU.png)
 - Alternately, you can download popular keywords from https://mute.life by clicking "mute.life" button
+
+![](http://i.imgur.com/Md6hnSU.png)
+
 
 ## Sort by popularity
 - Click "enable sort"
-![](http://i.imgur.com/IrEegiK.png)
 - Adjust the weight percentage for retweets & likes (for estimating popularity of a tweet, for sorting). E.g. `100% retweet` and `0% like` means sorting would consider retweet count only. 
 - You can choose to normalize the count of retweets & likes by the tweet's age (e.g. to see what's hot)
 - You can mark the tweets as "read". Tweets once sorted will be hidden from subsequent sort operations. Simply uncheck the box or reload the page to undo that. 
 
+![](http://i.imgur.com/IrEegiK.png)
+
 ## User weights
 - Hover over a username (on twitter.com) to adjust a user's weight (used for sorting). Default weight is `1`
+
 ![](http://i.imgur.com/MtRsJP2.png)
+
 - Non-default weights are visible under options
+
 ![](http://i.imgur.com/SqeIa75.png)
 
 
